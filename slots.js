@@ -52,7 +52,7 @@ var STATE_SPINDOWN = 2;
 var STATE_REWARD = 3;
 
 // config
-var reel_count = 3;
+var reel_count = 5;
 var reel_positions = 32;
 var symbol_size = 32;
 var symbol_count = 11;
